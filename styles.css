@@ -1,0 +1,17 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #8ecae6;
+    background-color: #023047;
+}
+
+p {
+    color: #fb8500;
+}
+
+div.center {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    background-color: #023047;
+}
